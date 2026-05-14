@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI Daily News Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/ryolu" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/Gavmn" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/op7418" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/raunofreiberg" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/Jakubantalik" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/mattsilx" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/eduardbodak" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/reactivve_" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/designgurra" />
+    <outline type="rss" xmlUrl="https://rsshub.pseudoyu.com/twitter/user/berryxia" />
+  </body>
+</opml>

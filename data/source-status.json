@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T04:21:57.994611Z",
+  "generated_at": "2026-06-22T04:24:24.173537Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 197,
-      "duration_ms": 7042,
+      "item_count": 194,
+      "duration_ms": 7438,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 350,
+      "duration_ms": 202,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 24,
-      "duration_ms": 284,
+      "item_count": 28,
+      "duration_ms": 108,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 327,
+      "duration_ms": 490,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 422,
+      "duration_ms": 289,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 381,
-      "duration_ms": 24082,
+      "item_count": 423,
+      "duration_ms": 17007,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1437,
+      "duration_ms": 851,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3008,
-      "duration_ms": 1338,
+      "item_count": 3005,
+      "duration_ms": 1696,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 521,
+      "item_count": 64,
+      "duration_ms": 342,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 299,
+      "duration_ms": 360,
       "error": null
     },
     {
@@ -86,23 +86,23 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1409,
+      "duration_ms": 1487,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 1350,
+      "item_count": 0,
+      "duration_ms": 2774,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 147,
-      "duration_ms": 559,
+      "item_count": 146,
+      "duration_ms": 593,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": false,
       "partial_failures": 11,
       "item_count": 0,
-      "duration_ms": 5688,
+      "duration_ms": 3476,
       "error": "11 feeds failed",
       "feed_count": 11,
       "effective_feed_count": 11,
@@ -125,10 +125,12 @@
   "failed_sites": [
     "opmlrss"
   ],
-  "zero_item_sites": [],
-  "fetched_raw_items": 5064,
-  "items_before_topic_filter": 1991,
-  "items_in_24h": 220,
+  "zero_item_sites": [
+    "aihot"
+  ],
+  "fetched_raw_items": 5040,
+  "items_before_topic_filter": 2295,
+  "items_in_24h": 274,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -136,16 +138,16 @@
     "effective_feed_total": 11,
     "ok_feeds": 0,
     "failed_feeds": [
-      "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
-      "https://rsshub.pseudoyu.com/twitter/user/op7418",
+      "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
       "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
-      "https://rsshub.pseudoyu.com/twitter/user/designgurra",
-      "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+      "https://rsshub.pseudoyu.com/twitter/user/op7418",
       "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
-      "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
       "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
       "https://rsshub.pseudoyu.com/twitter/user/ryolu",
-      "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+      "https://rsshub.pseudoyu.com/twitter/user/designgurra",
+      "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+      "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
+      "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
       "https://rsshub.pseudoyu.com/twitter/user/berryxia"
     ],
     "zero_item_feeds": [],
@@ -153,30 +155,15 @@
     "replaced_feeds": [],
     "feeds": [
       {
-        "site_id": "opmlrss:7faa693eff",
+        "site_id": "opmlrss:da37afb298",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 418,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/mattsilx",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:1966793021",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/op7418",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/op7418",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 438,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/op7418",
+        "duration_ms": 250,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/reactivve_",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -190,7 +177,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 440,
+        "duration_ms": 254,
         "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
         "skipped": false,
         "skip_reason": null,
@@ -198,30 +185,15 @@
         "bridge_type": null
       },
       {
-        "site_id": "opmlrss:9d76a0a981",
+        "site_id": "opmlrss:1966793021",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/designgurra",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/designgurra",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/op7418",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/op7418",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 438,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/designgurra",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:e21cadb3e8",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 447,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+        "duration_ms": 262,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/op7418",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -235,23 +207,8 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 451,
+        "duration_ms": 268,
         "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/Gavmn",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:1d5ae2a0a3",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 450,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -265,7 +222,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 451,
+        "duration_ms": 270,
         "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
         "skipped": false,
         "skip_reason": null,
@@ -280,7 +237,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 472,
+        "duration_ms": 296,
         "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/ryolu",
         "skipped": false,
         "skip_reason": null,
@@ -288,15 +245,60 @@
         "bridge_type": null
       },
       {
-        "site_id": "opmlrss:da37afb298",
+        "site_id": "opmlrss:9d76a0a981",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/designgurra",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/designgurra",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 798,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+        "duration_ms": 294,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/designgurra",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:e21cadb3e8",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 304,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:7faa693eff",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 306,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/mattsilx",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:1d5ae2a0a3",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 313,
+        "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -310,7 +312,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/berryxia",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 885,
+        "duration_ms": 659,
         "error": "503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/twitter/user/berryxia",
         "skipped": false,
         "skip_reason": null,
@@ -339,6 +341,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-06-21"
+    "generated_date_utc": "2026-06-22"
   }
 }

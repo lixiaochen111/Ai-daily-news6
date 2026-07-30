@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-29T02:43:44.056419Z",
+  "generated_at": "2026-07-30T02:29:18.683386Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 169,
-      "duration_ms": 2441,
+      "item_count": 172,
+      "duration_ms": 2826,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
-      "ok": true,
-      "item_count": 8,
-      "duration_ms": 237,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 167,
+      "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 30,
-      "duration_ms": 99,
+      "item_count": 23,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 450,
+      "duration_ms": 527,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 318,
+      "duration_ms": 370,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 384,
-      "duration_ms": 15546,
+      "item_count": 387,
+      "duration_ms": 18918,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 3731,
+      "duration_ms": 1033,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3041,
-      "duration_ms": 1855,
+      "item_count": 3040,
+      "duration_ms": 2005,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 78,
-      "duration_ms": 518,
+      "duration_ms": 349,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 398,
+      "duration_ms": 348,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 829,
+      "duration_ms": 1283,
       "error": null
     },
     {
@@ -94,15 +94,15 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 889,
+      "duration_ms": 1054,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 123,
-      "duration_ms": 1044,
+      "item_count": 127,
+      "duration_ms": 1206,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": false,
       "partial_failures": 11,
       "item_count": 0,
-      "duration_ms": 133658,
+      "duration_ms": 134001,
       "error": "11 feeds failed",
       "feed_count": 11,
       "effective_feed_count": 11,
@@ -121,14 +121,15 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 13,
+  "successful_sites": 12,
   "failed_sites": [
+    "aibreakfast",
     "opmlrss"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5054,
-  "items_before_topic_filter": 2435,
-  "items_in_24h": 372,
+  "fetched_raw_items": 5048,
+  "items_before_topic_filter": 3647,
+  "items_in_24h": 434,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -136,31 +137,31 @@
     "effective_feed_total": 11,
     "ok_feeds": 0,
     "failed_feeds": [
-      "https://rsshub.pseudoyu.com/twitter/user/ryolu",
-      "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
-      "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
-      "https://rsshub.pseudoyu.com/twitter/user/berryxia",
-      "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
-      "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
-      "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
-      "https://rsshub.pseudoyu.com/twitter/user/op7418",
       "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
+      "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
+      "https://rsshub.pseudoyu.com/twitter/user/op7418",
+      "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+      "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
+      "https://rsshub.pseudoyu.com/twitter/user/designgurra",
+      "https://rsshub.pseudoyu.com/twitter/user/ryolu",
+      "https://rsshub.pseudoyu.com/twitter/user/berryxia",
       "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
-      "https://rsshub.pseudoyu.com/twitter/user/designgurra"
+      "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
+      "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj"
     ],
     "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
     "feeds": [
       {
-        "site_id": "opmlrss:822dc26cc6",
+        "site_id": "opmlrss:1d5ae2a0a3",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12130,
+        "duration_ms": 12129,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -175,82 +176,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/mattsilx",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12135,
-        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:a0b5283952",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12143,
-        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:4513faed21",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/berryxia",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/berryxia",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12143,
-        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:fa13b8925b",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12155,
-        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:e21cadb3e8",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12157,
-        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:902db13da6",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12152,
+        "duration_ms": 12175,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -265,7 +191,7 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/op7418",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12162,
+        "duration_ms": 12187,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -273,14 +199,14 @@
         "bridge_type": null
       },
       {
-        "site_id": "opmlrss:1d5ae2a0a3",
+        "site_id": "opmlrss:e21cadb3e8",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Jakubantalik",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/raunofreiberg",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12162,
+        "duration_ms": 12187,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -288,14 +214,14 @@
         "bridge_type": null
       },
       {
-        "site_id": "opmlrss:da37afb298",
+        "site_id": "opmlrss:fa13b8925b",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.pseudoyu.com",
-        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
-        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/Gavmn",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12158,
+        "duration_ms": 12190,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -310,7 +236,82 @@
         "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/designgurra",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12161,
+        "duration_ms": 12181,
+        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:822dc26cc6",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/ryolu",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12193,
+        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:4513faed21",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/berryxia",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/berryxia",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12185,
+        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:da37afb298",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/reactivve_",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12188,
+        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:902db13da6",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/eduardbodak",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12191,
+        "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:a0b5283952",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.pseudoyu.com",
+        "feed_url": "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
+        "effective_feed_url": "https://rsshub.pseudoyu.com/twitter/user/zielinskiwoj",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12195,
         "error": "HTTPSConnectionPool(host='rsshub.pseudoyu.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -339,6 +340,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-29"
+    "generated_date_utc": "2026-07-30"
   }
 }
